@@ -1,0 +1,51 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Sep 10 00:33:21 2010
+;; Desktop file format version 206
+;; Emacs version 23.1.50.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list '("~/.emacs.d"))
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/introduction_fr.tex"
+  "introduction_fr.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  106
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/chapter1_fr.tex"
+  "chapter1_fr.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/resume.tex"
+  "resume.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix)))
+

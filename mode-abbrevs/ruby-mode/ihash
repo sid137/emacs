@@ -1,0 +1,1 @@
+Hash.new { |l, k| l[k] = Hash.new(&l.default_proc) }

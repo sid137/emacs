@@ -1,0 +1,216 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Aug 15 17:51:03 2010
+;; Desktop file format version 206
+;; Emacs version 23.1.50.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list '("~/.emacs.d"))
+(setq search-ring '("h!"))
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . "\n@article{rehacek2001,\n  title={{Iterative algorithm for reconstruction of entangled states}},\n  author={{Rehacek, J. and Hradil, Z. and Jezek, M.},\n  journal={Physical Review A},\n  volume={63},\n  number={4},\n  pages={40303},\n  year={2001},\n  publisher={APS}\n}")))
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/chapter6.tex"
+  "chapter6.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode flyspell-mode)
+  10459
+  '(2767 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/chapter7.tex"
+  "chapter7.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode flyspell-mode)
+  6833
+  '(3863 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/introduction.tex"
+  "introduction.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode flyspell-mode)
+  1237
+  '(144 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/master.tex"
+  "master.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  3414
+  '(3597 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/chapter1.tex"
+  "chapter1.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode flyspell-mode)
+  880
+  '(879 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-emacs-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/core/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(abbrev-mode semantic-idle-scheduler-mode semantic-idle-summary-mode senator-minor-mode icicle-mode ecb-minor-mode mmm-mode)
+  2507
+  '(8291 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/chapter5.tex"
+  "chapter5.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode flyspell-mode)
+  21388
+  '(34454 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/chapter4.tex"
+  "chapter4.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode flyspell-mode)
+  45001
+  '(3409 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/chapter3.tex"
+  "chapter3.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode flyspell-mode)
+  14355
+  '(15042 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/chapter2.tex"
+  "chapter2.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode flyspell-mode)
+  29140
+  '(29125 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/references/chapter2.bib"
+  "chapter2.bib"
+  'bibtex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  916
+  '(901 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/references/chapter5.bib"
+  "chapter5.bib"
+  'bibtex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  425
+  '(407 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/tex/appendix.tex"
+  "appendix.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  256
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/references/chapter4.bib"
+  "chapter4.bib"
+  'bibtex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  1958
+  '(1945 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/commands.tex"
+  "commands.tex"
+  'latex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  1701
+  '(2260 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/references/chapter3.bib"
+  "chapter3.bib"
+  'bibtex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  965
+  '(958 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/references/jeremie.bib"
+  "jeremie.bib"
+  'bibtex-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  24671
+  '(24389 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/thesis/thesis/data/doubler_blue_vs_red.gpi"
+  "doubler_blue_vs_red.gpi"
+  'fundamental-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode mmm-mode)
+  201
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+

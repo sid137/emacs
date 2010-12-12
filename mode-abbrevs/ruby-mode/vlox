@@ -1,0 +1,2 @@
+validates_length_of :<field "attribute">, :in => <field "start">..<field "finish">
+  :message => "<field "should be in %d">"

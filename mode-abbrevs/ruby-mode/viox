@@ -1,0 +1,2 @@
+validates_inclusion_of :<field "attribute">, :in => %w(<field "list">),
+  :message => <field "is not included in the list">

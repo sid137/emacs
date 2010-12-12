@@ -1,0 +1,1 @@
+validates_numericality_of :<field "attribute">, :message => "<field "is not a number">"

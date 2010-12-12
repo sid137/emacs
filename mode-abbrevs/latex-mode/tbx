@@ -1,0 +1,11 @@
+\begin{table}[hbt]
+\label{tab:<field "label">}
+\centerline{
+  \begin{tabular}{<field "columns">}
+    <field "heading">	   			 				
+    \hline
+    <endpoint>
+  \end{tabular}
+}
+\caption{<field "caption">}
+\end{table}

@@ -1,0 +1,1 @@
+validates_acceptance_of :<field "attribute">, :message => "<field "must be accepted">"<endpoint>

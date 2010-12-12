@@ -1,0 +1,1 @@
+oParser.add_option('-<field "short">', '--<field "long">', type='float', help='<field "desc">')

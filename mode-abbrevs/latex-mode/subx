@@ -1,0 +1,8 @@
+\begin{figure}[!ht]
+  \centering
+  \subfloat[<field "sub caption">]{\label{fig:<field "sub label">}\includegraphics[width=0.5\textwidth]{figures/<field "sub figure">} }
+  \subfloat[<field "sub caption">]{\label{fig:<field "sub label">}\includegraphics[width=0.5\textwidth]{figures/<field "sub figure">} }
+  
+  \caption[<field "global short caption">]{<field "global long caption">}
+  \label{fig:<field "global label">}
+\end{figure}

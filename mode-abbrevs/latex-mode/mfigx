@@ -1,0 +1,12 @@
+\begin{figure}[!ht]
+  \centering
+  \subfloat[][<field "caption1">]{
+    \label{fig:<field "label1">}
+    \includegraphics[width=0.5\textwidth]{figures/<field "picture1">} }
+  \subfloat[][<field "caption2">]{
+    \label{fig:<field "label2">}
+    \includegraphics[width=0.5\textwidth]{figures/<field "picture2">} } \\
+   \vspace{-10pt}
+  \caption[<field "Short Caption">]{ <field "Long Caption"> \subref{fig:<field "Short Caption">} }
+  \label{fig:<field "label">}
+\end{figure}

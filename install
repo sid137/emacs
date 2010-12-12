@@ -1,0 +1,2 @@
+ln -s .emacs ~/.emacs
+#sudo apt-get install

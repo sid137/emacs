@@ -1,0 +1,1 @@
+if [[ -z $<field "arg" ]] then; <field "var">=<field "default"> else <field "var"=<field "arg"> fi

@@ -1,0 +1,8 @@
+<field "function"> (){
+  usage='Usage: <field "usage">'
+  if (( $# == 0 )) then; 
+          echo $usage
+  else
+	<endpoint>
+  fi
+}

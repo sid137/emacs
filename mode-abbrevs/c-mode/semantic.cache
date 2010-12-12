@@ -1,0 +1,16 @@
+;; Object c-mode/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "c-mode/"
+  :tables (list 
+   (semanticdb-table "mainx"
+    :major-mode 'c-mode
+    :tags '(("main" function (:arguments (("argc" variable (:type "int") (reparse-symbol arg-sub-list) [39 48]) ("argv" variable (:pointer 2 :type "char") (reparse-symbol arg-sub-list) [49 61])) :type "int") nil [30 92]))
+    :file "mainx"
+    :pointmax 93
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre3"
+  :semanticdb-version "2.0pre3"
+  )

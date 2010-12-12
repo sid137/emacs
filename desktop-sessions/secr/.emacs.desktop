@@ -1,0 +1,84 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Apr 10 17:51:06 2010
+;; Desktop file format version 206
+;; Emacs version 23.1.50.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list '("~/.emacs.d"))
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/sid137/projects/heroku/secretaire/app/controllers/lists_controller.rb"
+  "lists_controller.rb"
+  'ruby-mode
+  '(abbrev-mode ruby-electric-mode icicle-mode ecb-minor-mode rinari-minor-mode mmm-mode)
+  246
+  '(115 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/projects/heroku/secretaire/app/views/lists/index.html.haml"
+  "index.html.haml"
+  'haml-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode rinari-minor-mode mmm-mode)
+  18
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/projects/heroku/secretaire/config/routes.rb"
+  "routes.rb"
+  'ruby-mode
+  '(abbrev-mode ruby-electric-mode icicle-mode ecb-minor-mode rinari-minor-mode mmm-mode)
+  1464
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/projects/heroku/secretaire/app/views/lists/_list.html.haml"
+  "_list.html.haml"
+  'haml-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode rinari-minor-mode mmm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/projects/heroku/secretaire/app/views/lists/new.html.haml"
+  "new.html.haml"
+  'haml-mode
+  '(abbrev-mode icicle-mode ecb-minor-mode rinari-minor-mode mmm-mode)
+  499
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sid137/projects/heroku/secretaire/app/models/list.rb"
+  "list.rb"
+  'ruby-mode
+  '(abbrev-mode ruby-electric-mode icicle-mode ecb-minor-mode rinari-minor-mode mmm-mode)
+  928
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+

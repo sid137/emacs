@@ -1,0 +1,1 @@
+validates_presence_of :<field "parent">

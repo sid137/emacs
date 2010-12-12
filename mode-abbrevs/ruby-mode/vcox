@@ -1,0 +1,1 @@
+validates_confirmation_of :<field "attribute">, :message => "<field "doesn't match confirmation">"

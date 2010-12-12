@@ -1,0 +1,63 @@
+;; Object .emacs2/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file ".emacs2/"
+  :tables (list 
+   (semanticdb-table "msf-abbrev.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "msf-abbrev.el"
+    :pointmax 33288
+    )
+   (semanticdb-table "snippet.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "snippet.el"
+    :pointmax 26865
+    )
+   (semanticdb-table "ruby-electric.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "ruby-electric.el"
+    :pointmax 6748
+    )
+   (semanticdb-table "ruby-mode.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "ruby-mode.el"
+    :pointmax 38729
+    )
+   (semanticdb-table "amc-lisp.el"
+    :major-mode 'lisp-mode
+    :tags 'nil
+    :file "amc-lisp.el"
+    :pointmax 9674
+    )
+   (semanticdb-table "init.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "init.el"
+    :pointmax 24995
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "smart-compile.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "smart-compile.el"
+    :pointmax 7214
+    )
+   (semanticdb-table "sass-mode.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "sass-mode.el"
+    )
+   (semanticdb-table "emacs-custom.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "emacs-custom.el"
+    :pointmax 2431
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre3"
+  :semanticdb-version "2.0pre3"
+  )

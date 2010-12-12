@@ -1,0 +1,12 @@
+#!/bin/bash
+
+base=<field "base">
+archive=${base}.tar.bz2
+site=<field "site">
+
+wget -N $site/$archive
+tar -xjf $archive
+cd $base
+./configure
+make && make install
+cd ..  && rm -rf $base

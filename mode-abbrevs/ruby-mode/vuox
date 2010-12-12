@@ -1,0 +1,2 @@
+validates_uniqueness_of :<field "attribute">, :case_sensitive => <field "true">,
+  :message => "<field "has already been taken">"

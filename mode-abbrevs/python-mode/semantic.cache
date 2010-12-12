@@ -1,0 +1,14 @@
+;; Object python-mode/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "python-mode/"
+  :tables (list 
+   (semanticdb-table "psl"
+    :major-mode 'python-mode
+    :tags 'nil
+    :file "psl"
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre3"
+  :semanticdb-version "2.0pre3"
+  )
