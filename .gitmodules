@@ -1,3 +1,6 @@
 [submodule "rinari"]
 	path = rinari
 	url = https://github.com/eschulte/rinari.git
+[submodule "cucumber.el"]
+	path = cucumber.el
+	url = git://github.com/michaelklishin/cucumber.el.git
